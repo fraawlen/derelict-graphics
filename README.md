@@ -20,7 +20,7 @@ Notable features :
 
 ## Status
 
-Latest release version : **0.1.0 BETA**
+Latest release version : **0.1.1 BETA**
 
 DG just got its first public release and is currently BETA software : what's implemented is operational, but some components (mostly cells / widgets) are still missing and will be made available in the upcoming releases. Therefore, it's not yet feature-complete and changes in the API or configuration options are to be expected. Stability may also be lacking since the project is young and has not been yet extensively tested under a myriad of conditions, but simple programs and the provided demos should not encounter any major issues.
 
